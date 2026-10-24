@@ -39,7 +39,7 @@ You only need a modern web browser, such as Google Chrome, Microsoft Edge, or Fi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Akshit-rgb/Queez-25BCON1138.git
+   git clone https://github.com/Akshit-rgb/Quiz-25BCON1138.git
    ```
 
 2. Open the project folder:
