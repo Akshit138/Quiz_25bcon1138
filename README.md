@@ -21,7 +21,7 @@ An interactive, browser-based quiz application built using HTML, CSS, and JavaSc
 ## Project Structure
 
 ```text
-Quiz-25BOCN1138/
+Quiz-25BCON1138/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -39,13 +39,13 @@ You only need a modern web browser, such as Google Chrome, Microsoft Edge, or Fi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Akshit-rgb/Queez-25BOCN1138.git
+   git clone https://github.com/Akshit-rgb/Queez-25BCON1138.git
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd Quiz-25BOCN1138
+   cd Quiz-25BCON1138
    ```
 
 3. Open `index.html` in your web browser.
